@@ -6,6 +6,7 @@ description: 'Slides for lecture presentation. Presentation courtesy of Adrien d
   Marketing Science 19, no. 3 (2000): 266-78.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-764-the-theory-of-operations-management-spring-2004/0d0ff808d8dd8236b9614d116c0d0696_lec16_chaisemartin.pdf
 file_type: application/pdf
+parent_uid: 6a329ba4-c7df-c260-e7df-de3f9113a5e2
 resourcetype: Document
 title: lec16_chaisemartin.pdf
 uid: 0d0ff808-d8dd-8236-b961-4d116c0d0696

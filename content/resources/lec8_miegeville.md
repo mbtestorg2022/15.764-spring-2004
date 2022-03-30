@@ -5,6 +5,7 @@ description: 'Slides for lecture presentation. Presentation courtesy of Nicolas 
   Trade-offs in Assemble-to-Order Systems." Operations Research 43, no. 6 (1998).'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-764-the-theory-of-operations-management-spring-2004/61f32ad8ac1bcdebe34c9bdbfdaff2ec_lec8_miegeville.pdf
 file_type: application/pdf
+parent_uid: 6a329ba4-c7df-c260-e7df-de3f9113a5e2
 resourcetype: Document
 title: lec8_miegeville.pdf
 uid: 61f32ad8-ac1b-cdeb-e34c-9bdbfdaff2ec
